@@ -1,0 +1,6 @@
+{
+  "name": "Beauty By Roxanne @ The Didsbury Salon",
+  "description": "Calming Facials and Massage at The Didsbury Salon, Manchester UK. Book directly online without the DM wait.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
